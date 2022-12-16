@@ -331,9 +331,8 @@ span.post-name a,span.post-read-more a:hover {
 }
 .intro {
     background-color: #50A5AF;
-    padding: 9rem 0;
     margin-top:-87px;
-    margin-bottom:3.5rem;
+    margin-bottom: 3.5rem;
     z-index: 1;
     position: relative;
 }
@@ -351,17 +350,17 @@ span.post-name a,span.post-read-more a:hover {
 }
 .intro h1 {
     font-weight:700;
+    color: white;
 }
 .intro h2 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    color: #888;
+    color: white;
     line-height: 1.6;
 }
 .wrapintro {
-    background: #fff;
+    background: transparent;
     width: 700px;
-    padding: 3rem;
     max-width: 90%;
     margin: 0px auto;
     text-align: center;
