@@ -330,7 +330,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-color: #50A5AF;
+    background-color: #171E27;
     padding: 3rem 0;
     margin-top: -55px;
     margin-bottom: 3.5rem;
@@ -355,7 +355,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .intro h2 {
     margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 0;
     color: white;
     line-height: 1.6;
 }
