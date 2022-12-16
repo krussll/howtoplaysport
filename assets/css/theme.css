@@ -892,3 +892,6 @@ background-color: #675bff !important;
 	display: block;
 	margin: auto;
 }
+.listfeaturedtag .thumbnail {
+	max-width: 200px;
+}
