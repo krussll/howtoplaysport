@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Lawn Bowls For Beginners"
 categories: [ lawn-bowls ]
-author: reece
+author: reece 
 image: assets/images/best-lawn-bowls-for-beginners.jpg
 featured: true
 description: ""
