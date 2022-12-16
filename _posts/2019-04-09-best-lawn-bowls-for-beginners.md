@@ -89,17 +89,6 @@ If you are playing indoors only, then checkout our guide on the <a href="/guide/
 
 Different positions in a bowls team will require different bowls. For example a lead will want to have a much narrower bowl, to help get a consistent line to draw to the jack, whereas a skip will want a much wider bias to help navigate through a busy head. That being said, you will often find yourself as a beginner playing in either the lead or number 2 position, as these roles help develop you line and weight, therefore a narrow to medium bias would be best.
 
-<div class="overview"  markdown="1">
-  
-  <h3>Related Articles</h3>
-  
-  * <a href="/help/lawn-bowls-player-positions">Player roles in lawn bowls</a>
-  * <a href="/guide/best-rated-bowls-for-leads">Best rated bowls for leads</a>
-  * <a href="/help/lawn-bowls-tips-for-leads">Tips for leads</a>
-  * [Ultimate Guide to Line Control]({% post_url 2021-03-30-ultimate-guide-to-line-control %})
-  
-</div> 
-
 So how do you know which model does what? Thankfully each manufacturer have their own “bias charts”. You can see our list of <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">bias charts for all major brands here</a>, this will give you a list of models to try.
 
 Finally, it comes down to personal preference. Get down your club and ask around. Also see below for our full list of recommended models!
@@ -136,20 +125,6 @@ However, for its consistency and clean narrow line, we recommend the Vector VS. 
 
 Here's what Taylor has to say about the Vector VS: _"The Vector-VS is perfect for fast surfaces and indoor greens, having a lenient, gentle draw to the jack with no hook at the end, making it ideal for front end bowlers."_
 
-<div class="overview"  markdown="1">
-  
-  <h3>Related Articles</h3>
-  
-  * <a href="/review/bowls/taylor-vector-vs-review">Full Vector VS Bowls Review</a>
-  
-  Other Taylor bowls reviews:
-  
-  * <a href="/review/bowls/taylor-legacy-sl-review">Taylor Legacy SL Bowls Review</a>
-  * <a href="/review/bowls/taylor-ace-review">Taylor Ace Bowls Review</a>
-  * <a href="/review/bowls/taylor-lazer-review">Taylor Lazer Bowls Review</a>
-  * <a href="/review/bowls/taylor-blaze-lawn-bowls-review">Taylor Blaze Bowls Review</a>
-  
-</div> 
 
 ### Drakes Pride Professional
 
@@ -160,19 +135,6 @@ The Professional model is the perfect model for any bowler who wants a versatile
 
 Here's what Drakes Pride have to say about the Professional: _"A phenomenally successful and popular model of bowl used by many top ranking players. The Professional is a mid bias bowl with a gradual and consistent finish offering a wide range of shot options, making it superb for both indoor and outdoor use."_
 
-<div class="overview"  markdown="1">
-  
-  <h3>Related Articles</h3>
-  
-  * <a href="/review/bowls/drakes-pride-professional-review">Full Drakes Pride Professional Bowls Review</a>
-  
-  Other Drakes Pride reviews
-  
-  * <a href="/review/bowls/drakes-pride-professional-vs-taylor-ace">Drakes Pride Professional Bowls Review</a>
-  * <a href="/review/bowls/drakes-pride-xp-lawn-bowls-review">Drakes Pride XP Bowls Review</a>
-  * <a href="/review/bowls/drakes-pride-pro-50-review">Drakes Pride PRO-50 Bowls Review</a>
-  
-</div> 
 
 
 ### Aero Quantum
@@ -183,12 +145,3 @@ We are huge fans of Aero bowls. They have a wide range of bowls for all environm
 
 Here's what Aero have to say about the Quantum: _"The Aero QUANTUM is the most popular all round model for indoor play in the Aero range. A mid bias bowl. Ideal for all playing positions on all types of indoor surface but particularly suitable for back end players. For outdoor players who prefer a narrower draw line. Suitable for front end playing positions on average to quick paced surfaces."_
 
-<div class="overview"  markdown="1">
-  
-  <h3>Related Articles</h3>
-  
-  Other Aero reviews
-  
-  * <a href="/review/bowls/aero-groove-lawn-bowls-review">Aero Groove Bowls Review</a>
-  
-</div> 
