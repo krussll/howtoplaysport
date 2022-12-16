@@ -110,8 +110,6 @@ A tense mind can also lead to your mind not focusing on the shot at hand, which 
 
 ### How to fix
 
-I have a whole article on the best mental training methods. You can read my article on [mental training methods here]({% post_url 2021-04-30-guide-to-mental-training-in-lawn-bowls %}).
-
 Activities, such as visualisation, and breathing techniques can help you keep your mind on the game, and your body relaxed.
 
 A relaxed mind and body are ideal for bowls. Don't try to force a good shot. Trust your training and let it happen naturally.
