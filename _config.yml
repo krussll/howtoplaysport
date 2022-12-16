@@ -1,0 +1,21 @@
+# Site
+name: "Jack High Bowls"
+title_suffix: "Jack High Bowls | Online Bowls Guides and Reviews"
+title: "Jack High Bowls indoor and lawn bowls"
+description: "Bringing the best online bowls reviews and guides for indoor and lawn bowls"
+meta_description: "Bringing the best online bowls reviews and guides for indoor and lawn bowls"
+logo: ''
+favicon: "/assets/images/favicon.ico"
+baseurl: "https://www.jackhighbowls.com"
+permalink: /:categories/:title
+email: "contact@jackhighbowls.com"
+google_analytics: "UA-86474387-5"
+
+# Authors
+authors:
+  reece:
+    name: Reece
+    display_name: Reece Williams
+    gravatar:
+    email: "reece@jackhighbowls.com"
+    description: "I've been a lawn bowler since 2015, and have been around bowls for much longer. I am a very average club player, but I like sharing any information I come across in the hope it might help others!"
