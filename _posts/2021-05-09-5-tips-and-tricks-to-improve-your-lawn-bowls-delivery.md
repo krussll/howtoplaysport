@@ -75,7 +75,7 @@ Grip issues can be by far the worst problem as:
 
 ### How to fix
 
-I have a whole article on [fixing the grip here]({% post_url 2021-04-27-best-lawn-bowl-grips %}). This goes into more detail about the grip, and how you can optimise yours.
+I have a whole article on [fixing the grip here]({% post_url 2021-12-02-best-lawn-bowl-grips %}). This goes into more detail about the grip, and how you can optimise yours.
 
 Alternatively you can check out my article on the best grip enhancers here. This will give you a few options on what you can use on your hands, and your bowls to help you grip better.
 
