@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Best lawn bowls for beginners"
-categories: [ guide ]
+title:  "Best Lawn Bowls For Beginners"
+categories: [ lawn-bowls ]
 author: reece
 image: assets/images/best-lawn-bowls-for-beginners.jpg
 featured: true
-description: "What are the best lawn bowls for beginners? We break down the most important issues to help make the best choice"
+description: ""
 last_modified_at: 2021-04-09
 ---
 
