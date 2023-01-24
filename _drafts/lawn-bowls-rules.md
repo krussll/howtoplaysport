@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide"
+title:  "Lawn Bowls Rules - How To Play Bowls"
 categories: [ help ]
 author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
