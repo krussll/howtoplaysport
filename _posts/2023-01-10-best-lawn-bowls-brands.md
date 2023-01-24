@@ -4,7 +4,7 @@ title:  "The World's Best Lawn Bowls Brands"
 author: reece
 categories: [ lawn-bowls ]
 image: assets/images/best-lawn-bowls-brands.jpg
-description: ""
+description: "From staple brands to new upstarts, there are plenty of bowls brands that are worth your attention."
 ---
 
  
