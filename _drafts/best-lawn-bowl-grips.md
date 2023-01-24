@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best Lawn Bowl Grips"
-categories: [ guide ]
+categories: [ lawn-bowls ]
 author: reece
 image: assets/images/second-hand-bowls-buyers-guide.jpg
 featured: true
