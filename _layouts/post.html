@@ -14,26 +14,13 @@ post_class: post-template
 
 		<div class="col-md-8 col-lg-8">
 			<div class="mainheading">
-
-                <!-- Post Categories -->
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                         <a href="#">{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <!-- End Categories -->
-
-                <!-- Post Title -->
 				<h1 class="posttitle" itemprop="headline name">{{ page.title }}</h1>
-				<h2>{{ page.description }}</h2>
-
 			</div>
-
+			
+			{% if page.first_paragraph %}
+			<p>{{ page.first_paragraph }}</p>
+			{% endif %}
+			
 			<!-- Post Featured Image -->
 			{% if page.image %}<img width="730" height="410" class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
 			<!-- End Featured Image -->
@@ -56,7 +43,7 @@ post_class: post-template
             </p>
 	<p>
 		<small itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-			<span itemprop="name">JACK HIGH BOWLS</span>
+			<span itemprop="name">How To Play Sport</span>
 		</small>
 
 
