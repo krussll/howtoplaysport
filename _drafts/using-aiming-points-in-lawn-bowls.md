@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using aiming points in lawn bowls"
+title:  "Where To Look When Aiming In Lawn Bowls"
 categories: [ guide ]
 author: reece
 image: assets/images/using-aiming-points-inlawn-bowls.jpg
