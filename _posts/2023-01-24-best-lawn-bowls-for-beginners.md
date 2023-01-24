@@ -6,6 +6,7 @@ author: reece
 image: assets/images/best-lawn-bowls-for-beginners.jpg
 featured: true
 description: ""
+first_paragraph: "Findind that first set of bowls can be tricky. But knowing what to look for will give you confidence it your choice."
 ---
 
 ## Top 3 Bowls For Beginners
