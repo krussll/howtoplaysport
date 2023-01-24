@@ -2,7 +2,7 @@
 layout: post
 title:  "The World's Best Lawn Bowls Brands"
 author: reece
-categories: [ guide ]
+categories: [ lawn-bowls ]
 image: assets/images/best-lawn-bowls-brands.jpg
 description: ""
 ---
