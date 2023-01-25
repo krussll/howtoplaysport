@@ -4,7 +4,7 @@ title:  "The World's Best Lawn Bowls Brands"
 author: reece
 categories: [ lawn-bowls ]
 image: assets/images/best-lawn-bowls-brands.jpg
-description: ""
+description: "A complete guide on the best brands of lawn bowls."
 first_paragraph: "From staple brands to new upstarts, there are plenty of bowls brands that are worth your attention."
 ---
 
@@ -27,9 +27,9 @@ Henselite is an Australian lawn bowls company that has been crafting quality, pe
 **Great fit for**: All skill levels. For beginners, you can get a quality set of bowls second hand. You can get a set of Tiger, or Tiger II for a resonable amount, and they will play consistently as you learn the game. If you are slightly more experienced, then a new set of Tiger EVOs might be a good fit.
 
 
-<A href="https://www.henselite.co.uk/">Learn More (UK)</a>
+<a target="_blank" href="https://www.henselite.co.uk/">Learn More (UK)</a>
 
-<A href="https://www.henselite.com/">Learn More (AUS)</a>
+<a target="_blank" href="https://www.henselite.com/">Learn More (AUS)</a>
 
 ## Taylor
 
@@ -42,7 +42,7 @@ The Thomas Taylor Lawn Bowls Company is a family-run business that has been prod
 
 **Great fit for**: Improving players. Once you have gotten over your first season and want to take the game more seriously you can't get much better thana Taylor Ace. They also have other models for those who prefer playing indoors or outdoors.
 
-<A href="https://www.taylorbowls.com/">Learn More</a>
+<a href="https://www.taylorbowls.com/">Learn More</a>
 
 ## Aero
 
@@ -54,9 +54,9 @@ Aero Lawn Bowls is a leading manufacturer of lawn bowls and related accessories.
 
 **Great fit for**: Intermediate players. There isn't much on the second hand market, so whilst the bowls are great there are more cost effective brands out there. If you're looking for consistent lines, and some funky colour options Aero are a great fit for you.
 
-<a href="https://www.aerobowls.co.uk/">Learn More (UK)</a>
+<a target="_blank" href="https://www.aerobowls.co.uk/">Learn More (UK)</a>
 
-<a href="https://www.aerobowls.com/">Learn More (AUS)</a>
+<a target="_blank" href="https://www.aerobowls.com/">Learn More (AUS)</a>
 
 ## Drakes Pride
 
@@ -68,7 +68,7 @@ Drakes Pride is one of the leading manufacturers of lawn bowls in the world. Est
 
 **Great fit for**: Casual players. Drakes Pride are a classic brand, and you can't go too far wrong with a Drakes Pride Professional. A fantastic all-round bowl for those who just want to enjoy a game with friends.
 
-<a href="https://www.drakespride.co.uk/">Learn More</a>
+<a target="_blank" href="https://www.drakespride.co.uk/">Learn More</a>
 
 ## Biased Bowls
 
@@ -80,4 +80,4 @@ Biased bowls are new on the scene, and are trying to very exciting things. With 
 
 **Great fit for**: Those after something a bit different. 
 
-<a href="https://www.biasedbowls.com/">Learn More</a>
+<a target="_blank" href="https://www.biasedbowls.com/">Learn More</a>
