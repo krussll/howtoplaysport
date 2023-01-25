@@ -8,6 +8,7 @@ description: ""
 first_paragraph: "From staple brands to new upstarts, there are plenty of bowls brands that are worth your attention."
 ---
 
+There is a brand of bowls for every budget and need. Here are our favourite brands (in no particular order).
  
 ## Henselite
 
