@@ -18,6 +18,8 @@ Here are our favourite brands, in no particular order. Just because a brand is l
  
 ## Henselite
 
+<img src="/assets/images/henselite-bowls.jpg" />
+
 **Year Founded**: 1918 | **Price Range**: £350-390 | **Made In**: Australia | **Best Known Model**: Tiger II
 
 Henselite is an Australian lawn bowls company that has been crafting quality, performance-driven bowls since 1918. They are one of the leading bowling brands in the world, supplying products to competitive and recreational players across many countries. Henselite specializes in producing durable and high-quality bowls. All of their products are crafted with precision and attention to detail to ensure superior performance on the green. Their range includes bowls for all skill levels, making them a leader in the sport of lawn bowls.
@@ -31,6 +33,8 @@ Henselite is an Australian lawn bowls company that has been crafting quality, pe
 
 ## Taylor
 
+<img src="/assets/images/taylor-bowls.jpg" />
+
 **Year Founded**: 1992 | **Price Range**: £290-360 | **Made In**: Scotland | **Best Known Model**: Ace
 
 
@@ -41,6 +45,8 @@ The Thomas Taylor Lawn Bowls Company is a family-run business that has been prod
 <A href="https://www.taylorbowls.com/">Learn More</a>
 
 ## Aero
+
+<img src="/assets/images/aero-bowls.jpg" />
 
 **Year Founded**: 2012 | **Price Range**: £340-380 | **Made In**: Australia | **Best Known Model**: GrooVe
 
@@ -54,6 +60,8 @@ Aero Lawn Bowls is a leading manufacturer of lawn bowls and related accessories.
 
 ## Drakes Pride
 
+<img src="/assets/images/drakes-pride-bowls.jpg" />
+
 **Year Founded**: 1982 | **Price Range**: £230-299 | **Made In**: England | **Best Known Model**: Professional
 
 Drakes Pride is one of the leading manufacturers of lawn bowls in the world. Established in 1982, they have dedicated their time and energy to providing top quality products for bowlers, clubs, and associations all over the globe. Producing a range of both indoor and outdoor bowls, as well as clothing and accessories, Drakes Pride was been at the cutting edge of lawn bowls manufacturing technology in the 80s, pineering the manufacturing methods that have become the backbone of all bowls manufacturing today. They are not quite so "cutting edge" now, not that they need to, with the continued success and popularity of the Professional model.
@@ -63,6 +71,8 @@ Drakes Pride is one of the leading manufacturers of lawn bowls in the world. Est
 <a href="https://www.drakespride.co.uk/">Learn More</a>
 
 ## Biased Bowls
+
+<img src="/assets/images/biased-bowls.jpg" />
 
 **Year Founded**: 2021 | **Price Range**: £325-£385 | **Made In**: England | **Best Known Model**: Racing Line
 
