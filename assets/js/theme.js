@@ -118,7 +118,7 @@ jQuery(document).ready(function($){
         if (st > lastScrollTop && st > navbarHeight){
             // Scroll Down            
             $('header').removeClass('nav-down').addClass('nav-up'); 
-            $('.nav-up').css('top', - $('header').outerHeight() + 'px');
+            $('.nav-up').css('top', - $('header').height() + 'px');
            
         } else {
             // Scroll Up
@@ -132,7 +132,7 @@ jQuery(document).ready(function($){
     }
     
     
-    $('.site-content').css('margin-top', $('header').outerHeight() + 'px');
+    $('.site-content').css('margin-top', $('header').height() + 'px');
     
     
     
