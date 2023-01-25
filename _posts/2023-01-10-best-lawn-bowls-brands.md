@@ -36,7 +36,7 @@ Henselite is an Australian lawn bowls company that has been crafting quality, pe
 
 The Thomas Taylor Lawn Bowls Company is a family-run business that has been producing professional quality lawn bowls for over 30 years. Founded in 1992, the company has a long history of producing premium quality lawn bowls that have been used by countless professionals and recreational players alike. Their bowls are designed to be incredibly durable and long lasting. The Thomas Taylor Lawn Bowls Company also offers a wide selection of accessories, such as bowls bags, bowls carriers, and bowls mats, that are designed to make playing and enjoying the sport of lawn bowls much easier. With their commitment to quality and service, the Thomas Taylor Lawn Bowls Company is an excellent choice for anyone looking to purchase professional quality lawn bowls.
 
-**Great fit for**: 
+**Great fit for**: Improving players. Once you have gotten over your first season and want to take the game more seriously you can't get much better thana Taylor Ace. They also have other models for those who prefer playing indoors or outdoors.
 
 <A href="https://www.taylorbowls.com/">Learn More</a>
 
@@ -46,7 +46,7 @@ The Thomas Taylor Lawn Bowls Company is a family-run business that has been prod
 
 Aero Lawn Bowls is a leading manufacturer of lawn bowls and related accessories. Founded in 2012, the company has grown to become one of the most respected and trusted names in the industry. With a focus on quality and innovation, Aero Lawn Bowls offers a wide selection of bowls, bags, shoes, and other accessories to meet the needs of both amateur and professional bowlers. The company also has a strong commitment to customer service, offering knowledgeable advice and support to all of its customers. Aero Lawn Bowls is dedicated to providing the best possible experience to its customers and is proud to be one of the leading names in lawn bowls.
 
-**Great fit for**: 
+**Great fit for**: Intermediate players. There isn't much on the second hand market, so whilst the bowls are great there are more cost effective brands out there. If you're looking for consistent lines, and some funky colour options Aero are a great fit for you.
 
 <a href="https://www.aerobowls.co.uk/">Learn More (UK)</a>
 
@@ -58,17 +58,16 @@ Aero Lawn Bowls is a leading manufacturer of lawn bowls and related accessories.
 
 Drakes Pride is one of the leading manufacturers of lawn bowls in the world. Established in 1982, they have dedicated their time and energy to providing top quality products for bowlers, clubs, and associations all over the globe. Producing a range of both indoor and outdoor bowls, as well as clothing and accessories, Drakes Pride was been at the cutting edge of lawn bowls manufacturing technology in the 80s, pineering the manufacturing methods that have become the backbone of all bowls manufacturing today. They are not quite so "cutting edge" now, not that they need to, with the continued success and popularity of the Professional model.
 
-**Great fit for**: 
+**Great fit for**: Casual players. Drakes Pride are a classic brand, and you can't go too far wrong with a Drakes Pride Professional. A fantastic all-round bowl for those who just want to enjoy a game with friends.
 
 <a href="https://www.drakespride.co.uk/">Learn More</a>
 
 ## Biased Bowls
 
-**Year Founded**: | **Price Range**: | **Made In**: England | **Best Known Model**: Racing Line
+**Year Founded**: 2021 | **Price Range**: £325-£385 | **Made In**: England | **Best Known Model**: Racing Line
 
-Year Founded: 
-Best Known Model:
+Biased bowls are new on the scene, and are trying to very exciting things. With the manufacturing experise of Taylor bowls behind them you can be sure the bowls will perform well, and last. The colour options and combinations are exciting, and only offering 2 models makes choosing a model much easier.
 
-**Great fit for**: 
+**Great fit for**: Those after something a bit different. 
 
-Learn More
+<a href="https://www.biasedbowls.com/">Learn More</a>
