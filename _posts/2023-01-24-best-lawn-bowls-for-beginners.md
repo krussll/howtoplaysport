@@ -84,52 +84,78 @@ Again, another mid-biased bowl, the Taylor Ace can be used on a multitude of sur
 
 ## Taylor Vector VS
 
+Another Taylor offering, this time the Vector VS. The VS has a slightly narrower bias than the Ace. This means that it won't turn as much as it travels down the green.
+
+This means it takes a shorter path to the jack, and makes it a bit easier to draw close to the jack. The down side of this is that if there are other bowls in the way (i.e. they are "short" of the jack and sit between you and the jack) you will have trouble getting your bowl to curve around them.
+
+For this reason the Vector VS is ideal for those who want to play lead, or for those who play more indoors, where the faster swingier rinks makes things a bit easier.
+
 ### Key features:
 
-- Price:
-- Best for:
-- Type: 
+- Price: £70-£150
+- Best for: Lead bowlers/indoor bowlers
+- Type: Narrow
 
 ### Pros
 
-- 
+- Great for those who want to play lead more
+- Still very much cost effective
+- Nice draw arch to the jack
 
 ### Cons
 
-- 
+- The narrow bias might make it limiting for those who want to expand their game in the future
 
 
 ## Henselite Tiger II
 
+This wouldn't be a beginner's list without a mention to the Henselite Tiger II. The Tiger II is another narrow drawing bowl (much like the Taylor vector VS), so good for beginners who play a lot of lead bowls.
+
+The Tiger II can be found relatively easily on second hand marketplaces such as eBay, but not quite so easy to find as a Drakes Pride Professional.
+
+Again, much like the Vector VS, the Tiger II has a tidy narrow draw to the jack - especially on outdoor greens.
+
 ### Key features:
 
-- Price:
-- Best for:
-- Type: 
+- Price: £50-£120
+- Best for: Lead bowlers/indoor bowlers
+- Type: Narrow
 
 ### Pros
 
-- 
+- Great line to the jack
+- Henselite are a great brand of bowls
+- Can be found at great prices
 
 ### Cons
 
-- 
+- Slightly harder to find second hand
 
 ## Aero GrooVe
 
+The Aero GrroVe is a relative newcomer into the mid-biased category. As its so new, it will be very hard to find a set for under £180 - so not the most affordable (breaking my own rules - slap on the wrist for me). However, it is hard to compile a list for any "Best Of" without mentioning an Aero bowl.
+
+The Aero GrooVe fits perfectly into the mid-biased category - easy to play both indoor and outdoors. Its draw arch makes it comfortable to draw to the jack, but still wide enough to get around any short stuff in the way.
+
+If you do go for a GrooVe I'd recommend buying new directly from Aero to take advatage of their colour and grip options. Aero offer a wide variety of grips - with the Z-Scoop being my personal favourite.
+
+The GrooVe is great for those who know they will be playing for a long time, and want to take on more challenging roles for their teams. For these it is worth the upfront investment knowing the Aero GrooVe will last for 10-15 years, easily
+
 ### Key features:
 
-- Price:
-- Best for:
-- Type: 
+- Price: £180+ (second hand) £350+ (new)
+- Best for: Allrounders
+- Type: Mid biased
 
 ### Pros
 
-- 
+- Great colour and grip options
+- Will last
+- Great mid-biased bowl option
 
 ### Cons
 
-- 
+- Very much a "considered investment" (expensive)
 
 
 
