@@ -34,6 +34,8 @@ Great, now we have got that out the way, lets take a look at the best lawn bowls
 
 ## Drakes Pride Professional
 
+<img src="/assets/images/drakes-pride-professional-bowls.jpg" />
+
 Its an oldy, but a goody. The Drakes pride professional has been a staple of club bowls for decades, and for good reason.
 
 It is perfectly playable on indoor and outdoor surfaces, so great for those who play all year round. Its one of a group of models, known as "mid-biased" bowls.
@@ -60,6 +62,8 @@ A Drakes Pride Professional is very durable, and will last you for many years. I
 
 ## Taylor Ace
 
+<img src="/assets/images/taylor-ace-bowls.jpg" />
+
 Much like the Drakes pride Professional, the Taylor Ace has dominated the club level rinnks for years. These are trusted by bowlers, and have been for decades.
 
 They also have a good secondhand market, so a decent set can be bought without costing you the Earth. 
@@ -83,6 +87,8 @@ Again, another mid-biased bowl, the Taylor Ace can be used on a multitude of sur
 - not quite as affordable as the Drakes pride Professional
 
 ## Taylor Vector VS
+
+<img src="/assets/images/taylor-vector-vs-bowls.jpg" />
 
 Another Taylor offering, this time the Vector VS. The VS has a slightly narrower bias than the Ace. This means that it won't turn as much as it travels down the green.
 
@@ -109,6 +115,8 @@ For this reason the Vector VS is ideal for those who want to play lead, or for t
 
 ## Henselite Tiger II
 
+<img src="/assets/images/henselite-tiger-ii-bowls.jpg" />
+
 This wouldn't be a beginner's list without a mention to the Henselite Tiger II. The Tiger II is another narrow drawing bowl (much like the Taylor vector VS), so good for beginners who play a lot of lead bowls.
 
 The Tiger II can be found relatively easily on second hand marketplaces such as eBay, but not quite so easy to find as a Drakes Pride Professional.
@@ -132,6 +140,8 @@ Again, much like the Vector VS, the Tiger II has a tidy narrow draw to the jack 
 - Slightly harder to find second hand
 
 ## Aero GrooVe
+
+<img src="/assets/images/aero-groove-bowls.jpg" />
 
 The Aero GrroVe is a relative newcomer into the mid-biased category. As its so new, it will be very hard to find a set for under £180 - so not the most affordable (breaking my own rules - slap on the wrist for me). However, it is hard to compile a list for any "Best Of" without mentioning an Aero bowl.
 
