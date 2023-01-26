@@ -46,9 +46,9 @@ A Drakes Pride Professional is very durable, and will last you for many years. I
 
 ### Key features:
 
-- Price: £60-100 (secondhand)
-- Best for: All-rounders
-- Type: Mid-biased
+- **Price**: £60-100 (secondhand)
+- **Best for**: All-rounders
+- **Type**: Mid-biased
 
 ### Pros
 
@@ -72,9 +72,9 @@ Again, another mid-biased bowl, the Taylor Ace can be used on a multitude of sur
 
 ### Key features:
 
-- Price: £70-£120 (second hand)
-- Best for: All-rounders
-- Type: Mid-biased
+- **Price**: £70-£120 (second hand)
+- **Best for**: All-rounders
+- **Type**: Mid-biased
 
 ### Pros
 
@@ -98,9 +98,9 @@ For this reason the Vector VS is ideal for those who want to play lead, or for t
 
 ### Key features:
 
-- Price: £70-£150
-- Best for: Lead bowlers/indoor bowlers
-- Type: Narrow
+- **Price**: £70-£150
+- **Best for**: Lead bowlers/indoor bowlers
+- **Type**: Narrow
 
 ### Pros
 
@@ -125,9 +125,9 @@ Again, much like the Vector VS, the Tiger II has a tidy narrow draw to the jack 
 
 ### Key features:
 
-- Price: £50-£120
-- Best for: Lead bowlers/indoor bowlers
-- Type: Narrow
+- **Price**: £50-£120
+- **Best for**: Lead bowlers/indoor bowlers
+- **Type**: Narrow
 
 ### Pros
 
@@ -153,9 +153,9 @@ The GrooVe is great for those who know they will be playing for a long time, and
 
 ### Key features:
 
-- Price: £180+ (second hand) £350+ (new)
-- Best for: Allrounders
-- Type: Mid biased
+- **Price**: £180+ (second hand) £350+ (new)
+- **Best for**: Allrounders
+- **Type**: Mid biased
 
 ### Pros
 
