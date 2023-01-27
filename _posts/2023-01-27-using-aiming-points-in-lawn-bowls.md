@@ -6,7 +6,7 @@ author: reece
 image: assets/images/aiming-point.jpg
 featured: true
 description: "Finding the line to bowl is one of the foundations of bowls. When you find it, and are able to stay on it, it can make the rest of your game much easier."
-first_paragraph: "The 2 'L's are Line and Length - once you have these you will be will on your way. The first 'L' (Line) is the fundemental skill you need to become a good bowler. But how do you find a line? And where do you aim to find it?"
+first_paragraph: "The 2 'L's of bowls are Line and Length - once you have these you will be will on your way. The first 'L' (Line) is the fundemental skill you need to become a good bowler. But how do you find a line? And where do you aim to find it?"
 ---
 
 The Line and Length can also be described as "target" and "speed". To get close to the jack you need to roll your bowl towards the right target, with the correct speed so it stops next to the jack.
@@ -34,7 +34,7 @@ In this diagram we can see:
 
 **The "Line" in bowls refers to the direction you roll the bowl. "Finding the line" is when you have found the exact distance away from the jack so that the bowl bends just enough to finish inline with it.**
 
-NOTE: I will be refering to the "left" and "right" of the rink, as this is clearer than saying "forehand" and "backhand" as these switch around for the lefthanders amoung us.
+NOTE: I will be refering to the "left" and "right" of the rink, as this is clearer than saying "forehand" and "backhand" as these switch around for the lefthanders among us.
 
 To send our bowl along the correct path we must imagine a line that extends beyond the point where the bowl will turn, and imagine we are bowling along that line, as if it's not going to turn.
 
@@ -46,7 +46,7 @@ To find the line you have to constantly adjust this imaginary line in your head 
 
 For the rest of this guide I will refer back to this diagram to look at:
 
-- and where to aim
+- where to aim when bowling
 - how to find your line
 
 ## Where to aim in bowls
