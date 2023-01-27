@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Lawn Bowls Rules - How To Play Bowls"
+title:  "Rules Of Bowls - Lawn Bowls And Indoor Bowls"
 categories: [ lawn-bowls ]
 author: reece
-image: assets/images/lawn-bowls-rules.jpg
+image: assets/images/bowls-rules.jpg
 featured: true
 description: "Our guide for the rules of lawn bowls for beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
 first_paragraph: ""
