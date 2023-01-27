@@ -34,6 +34,8 @@ In this diagram we can see:
 
 **The "Line" in bowls refers to the direction you roll the bowl. "Finding the line" is when you have found the exact distance away from the jack so that the bowl bends just enough to finish inline with it.**
 
+NOTE: I will be refering to the "left" and "right" of the rink, as this is clearer than saying "forehand" and "backhand" as these switch around for the lefthanders amoung us.
+
 To send our bowl along the correct path we must imagine a line that extends beyond the point where the bowl will turn, and imagine we are bowling along that line, as if it's not going to turn.
 
 <img src="/assets/images/aiming-points/aiming-points-imaginary-line.jpg" />
@@ -127,20 +129,38 @@ The tricky thing with this is you now have no reference point for how far you ne
 
 ### Which is best?
 
-In my opinion I think aiming "jack high" is best - especially for beginners. Aiming there allows you to focus on a point that will give you the correct line and length.
+**In my opinion I think aiming "jack high" is best - especially for beginners. Aiming there allows you to focus on a point that will give you the correct line and length.**
+
+However the only way to find what works for you is to try them all! Dedicate a whole practice session to each one to give it a chance to work, then review and commit to one.
 
 ## How to pick your line in bowls
 
-So now you know what the perfect line is, how do you find it?
+So now you know where you should be aiming, how do you find the right line? Unfortunately there isn't a perfect formula for finding the line - it mainly comes down to trail and error.
 
-### Step-by-step
+The key to finding the right line is to **watch every bowl** that is delivered. This will give you a better understanding of how the rink is behaving. Trail ends before games are critical for this.
 
+Here is how I find the line.
+
+### How to find the line: step-by-step
+
+1. during practice sessions I make a note on how my bowls generally behave. I know that I need to aim around "a mat-and-a-half" either side of the jack along the bank to get to the centre of the rink
+2. when a trial end is played I bowl along that line
+3. I watch closely to understand how my bowls are playing
+4. if I finish too far to the left I find an aiming point a bit to the right, and vice-versa
+5. I do this for both forehand and backhand
+6. I watch everyone else bowl and try to work out whos bowls are similar to mine. I can then try and see what other bowlers are using as their aiming point
+7. continue to watch and adjust as the game goes on
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rH7R40iKoZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Indoor aiming points
 
+You can use the same aiming points for indoor bowls too (behind the rink, jack high, shoulder of the shot, 3-4 yards infront of you). Just be sure to move your aiming point wider, as these faster surfaces wil, make your bowl mend more (way more, if you are used to playing on slower UK outdoor greens).
 
 
 ## In summary
+
+The line of a bowl is the path it takes as it bends around to the point it finishes. "Finding the line" is when you ahev found the exact line that allows the bowl to finish inline with the jack.
+
+There are many options for where to aim (behind the rink, jack high, shoulder of the shot, 3-4 yards infront of you). Which one you choose will have pros and cons, but will ultimately be down to what you find best.
