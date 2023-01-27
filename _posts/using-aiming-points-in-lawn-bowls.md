@@ -31,7 +31,6 @@ In this diagram we can see:
 - the centre line (the white dotted line up the middle)
 - the perfect line on the left hand-side of the rink (the red line)
 - the perfect line on the right hand-side of the rink (the orange line)
-- 
 
 **The "Line" in bowls refers to the direction you roll the bowl. "Finding the line" is when you have found the exact distance away from the jack so that the bowl bends just enough to finish inline with it.**
 
@@ -68,17 +67,67 @@ Lets look at each one in turn.
 
 <img src="/assets/images/aiming-points/aiming-point-1.jpg" />
 
+The first aiming point to consider is looking behind the rink. There are usually more things to focus on here, hedges, window frames, doors, posts - you name it, you'll probably find something. 
+
+All you need to do is extend your imaginary line beyond the rink and follow it up and behind the bank.
+
+The benefits here are:
+
+1. there is usually loads to choose from. You can easily find something along your imaginary line
+2. it doesn't move. Unless you pick someone's leg (not recommended) the point you fix on is unlikely to move. 
+
+The second point here is important. When you aim on the rink (as we will cover in a minute) you need to find _something_ to focus on. If the green is nice and consistent, or if you are playing indoors, finding a spot on your imaginary line can be difficult.
+
 ### Jack high
 
 <img src="/assets/images/aiming-points/aiming-point-2.jpg" />
+
+The second spot to look at is "jack high" along your line. For those new to the game "jack high" is an imaginary line (we like imagining lines in bowls) showing how far away the jack is - as if a line is extending from the jack either side.
+
+If you are "jack high" you have rolled your bowl to the same distance as the jack.
+
+The benefits here are:
+
+1. you get a feel for the speed needed to reach the jack
+2. it helps you get the correct weight of shot
+
+When you aim Jack High you have both elements of bowls in view at the same time. Line (along your imaginary line) and Length (the distance you need to roll the bowl).
+
+The problem with both of these first two options is that the aiming point is far away. A slight adjustment can have a big impact on your bowl, and it can be tricky to adjust.
 
 ### The shoulder
 
 <img src="/assets/images/aiming-points/aiming-point-3.jpg" />
 
+"The shoulder" is the point at which the bowl starts to turn. As this isn't a "fixed" point, it does require some experience to know roughly where your bowl will start to turn.
+
+However, so long as you watch your bowl travelling down the rink (ALWAYS what your bowl travel down the green) it will become easier to work out where the bowl will turn.
+
+The benefits here are:
+
+1. you still get both line and length in your view
+2. the aiming point is closer to you
+
+You can still get both Line and Length from aiming at the shoulder, as the bowl should travel the same distance once it starts turning each time. Also an aiming point closer to you is easier to hit, making it easier to be consistent.
+
 ### 3-4 yards in front of you
 
 <img src="/assets/images/aiming-points/aiming-point-4.jpg" />
+
+The final aiming point to consider is a point 3-4 yards in from of you along your imaginary line.
+
+Many top players use this method as it provides the most accuracy. Hitting a point 3-4 yards in front of you is much easier than trying to hit a mark on the other end of the green after a bowl has started turning.
+
+The main benefits here are:
+
+- you can be more presice with your aiming point as its closer to you
+- it should be easier to hit your mark
+
+The tricky thing with this is you now have no reference point for how far you need to bowl. The jack (or even "Jack high") are no longer in your view, so you need to have great weight control to consider this.
+
+### Which is best?
+
+In my opinion I think aiming "jack high" is best - especially for beginners. Aiming there allows you to focus on a point that will give you the correct line and length.
 
 ## How to pick your line in bowls
 
@@ -92,6 +141,6 @@ So now you know what the perfect line is, how do you find it?
 
 ## Indoor aiming points
 
--- image --
+
 
 ## In summary
