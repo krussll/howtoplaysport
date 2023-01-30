@@ -4,7 +4,7 @@ title:  "Lawn Bowl Grip Techniques"
 categories: [ lawn-bowls ]
 author: reece
 image: assets/images/lawn-bowl-grip-techniques.jpg
-featured: true
+featured: false
 description: ""
 first_paragraph: ""
 ---
@@ -17,9 +17,15 @@ first_paragraph: ""
 
 ## Claw
 
+-- image --
+
 ## Cradle
 
+-- image --
+
 ## Scoop
+
+-- image --
 
 ## How to choose which technique to use
 
