@@ -22,7 +22,7 @@ Both the Quantum and GrooVe are ideal for indoor and outdoor surfaces, whilst th
 <img src="/assets/images/bias-charts/aero-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
 
 
-## Biased Bowsl bias chart
+## Biased Bowls bias chart
 
 Biased Bowls offers 2 models. The Racing Line, and Torque models.
 
