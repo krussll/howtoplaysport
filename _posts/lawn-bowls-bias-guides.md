@@ -7,6 +7,8 @@ image: assets/images/lawn-bowls-trajectory-guide.jpg
 description: ""
 ---
 
+NOTE: All diagrams are for illustrative purposes only.
+
 ## Aero bowls bias chart
 
 <img src="/assets/images/bias-charts/aero-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
