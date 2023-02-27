@@ -9,20 +9,21 @@ description: ""
 
 ## Aero bowls bias chart
 
-<img src="/assets/images/aero-outdoor-uk-trajectory-guide-2020.png" height="702" width="730" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="200px" />
+<img src="/assets/images/bias-charts/aero-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
 
 ## Drakes Pride bowls bias chart
 
-<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" height="576" width="730" alt="Trajecotry guide/bias guide for Drakes Pride lawn bowl models"  height="200px" />
+<img src="/assets/images/bias-charts/drakes-pride-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
 
 ## Henselite bowls bias chart
 
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" height="702" width="730" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+
+<img src="/assets/images/bias-charts/henselite-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
 
 ## Taylor Bowls bias chart
 
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" height="702" width="730" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+<img src="/assets/images/bias-charts/taylor-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
 
 ## Biased Bowls bias chart
 
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" height="702" width="730" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+<img src="/assets/images/bias-charts/biased-bowls-trajectory-guide.jpg" height="754" width="980" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="754px" />
