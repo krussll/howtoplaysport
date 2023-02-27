@@ -3,7 +3,7 @@ layout: post
 title:  "Lawn Bowls Bias And Trajectory Guide"
 author: reece
 categories: [ guide ]
-image: assets/images/lawn-bowls-trajectory-guide.jpg
+image: assets/images/bowls-bias-charts.jpg
 description: ""
 ---
 
