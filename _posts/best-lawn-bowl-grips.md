@@ -25,8 +25,6 @@ The one you choose will depend on many factors (which we will look at later). Fo
 
 ## Claw
 
--- image --
-
 The claw grip is where you place your fingers across the running surface of the bowl - your index and pinky will often sit along the grips on the shoulder of the bowl - with your thumb on top of the bowl.
 
 Your thumb can sit either along the running surface of the bowl, or along the grip.
@@ -43,8 +41,6 @@ The Claw grip is ideal for indoor bowls, or fast outdoor greens as it helps when
 
 ## Cradle
 
--- image --
-
 The Cradle grip is where the bowl is held almost entirely in the palm of the hand. Your fingers and thumb are all along the running surface of the bowl or holding the bowl by the grip on the underside of it.
 
 The Cradle is almost as if you are cupping the bowl.
@@ -56,8 +52,6 @@ The cradle grip offers the most support for the bowl. Having the whole hand on t
 It does however mean that you loose a lot of the "feel" you get when you hold the bowl with the tips of your fingers. Also, having your thumb at the bottom of the bowl can make your backswing rather awkward, as there is nothing stopping the bowl from falling out - unless you bend your wrist to keep your hand underneath the bowl.
 
 ## Scoop
-
--- image --
 
 The Scoop grip is a combination of the cradle and the Claw. The fingers and thumb are placed similarly to the Claw, but the palm is also used to hold the bowl.
 
@@ -77,17 +71,36 @@ Its important to understand that you can (and often will) change your grip depen
 
 ### Grip strength
 
+Issues with grip strength are common in lawn bowls. This can be down to a variety of reasons - most commonly using abowl too big for you, or issues with the fingers as you get a bit older.
 
+If you have issues gripping the bowl then you may want to try using either the Scoop or Cradle grips to see if they offer more support.
 
 ### Weather
 
+Bowling in the rain is tricky, especially for your grip. As your bowls get wetter, and your towels get sodden, it can feel like gripping your bowl is impossible.
+
+I would strongly recommend you avoid something like the Claw grip - especially in the worst weather - and try the Cradle grip instead.
+
+When we get our "traditional English summer" I will often use the Cradle grip to ensure I can control the bowl as I release it.
 
 ### Surface speed
 
+As I mentioned in the description of the grips, the surface you bowl on can have an impact on the way you grip your bowl.
+
+If you are playing indoors, or on a particularly fast outdoor green (assuming the sun is shining of course!) then you may want to use a grip where your finger tips are used.
+
+Gripping by your fingers can often help with the "feel" of the bowl, especially when weight control is tricky.
 
 ### Comfort
 
+Finally, it comes down to personal preference.
+
+
+Who am I to tell you what does and doesn't work for you and your game. Try all three out and use the one that feels the best to you.
+
 ## FAQs
+
+Here are some other common questions about lawn bowl grips which may help you.
 
 ### What is the proper way to hold a lawn bowl?
 
