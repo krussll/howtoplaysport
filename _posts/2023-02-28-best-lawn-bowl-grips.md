@@ -3,7 +3,7 @@ layout: post
 title:  "Lawn Bowl Grip Techniques"
 categories: [ lawn-bowls ]
 author: reece
-image: assets/images/lawn-bowl-grip-techniques.jpg
+image: assets/images/how-to-grip-a-lawn-bowl.jpg
 featured: false
 description: "Complete guide on Lawn Bowl Grip Techniques. How to girp a lawn bowl for outdoor and indoor bowls."
 first_paragraph: "Your fingers are the last thing to touch your bowl before it heads up the rink. Therefore your grip is critical in maintaining control of your bowl during delivery."
