@@ -33,6 +33,8 @@ Your thumb can sit either along the running surface of the bowl, or along the gr
 
 The main feature of the Claw grip is that the palm of the hand is off the bowl. There should be a noticable gap between the palm of the hand and the bowl itself.
 
+### Pros and Cons of the Claw grip
+
 ## Cradle
 
 -- image --
@@ -41,6 +43,8 @@ The Cradle grip is where the bowl is held almost entirely in the palm of the han
 
 The Cradle is almost as if you are cupping the bowl.
 
+### Pros and Cons of the Cradle grip
+
 ## Scoop
 
 -- image --
@@ -48,6 +52,8 @@ The Cradle is almost as if you are cupping the bowl.
 The Scoop grip is a combination of the cradle and the Claw. The fingers and thumb are placed similarly to the Claw, but the palm is also used to hold the bowl.
 
 You know when you are holding your bowl in the correct Scoop grip when you can see your thumb and index finger in a "C" shape along the grip of the bowl.
+
+### Pros and Cons of the Scoop grip
 
 ## How to choose which technique to use
 
@@ -59,7 +65,6 @@ Its important to understand that you can (and often will) change your grip depen
 
 
 
-
 ### Weather
 
 
@@ -68,8 +73,12 @@ Its important to understand that you can (and often will) change your grip depen
 
 ### Comfort
 
-## What is the proper way to hold a lawn bowl?
+## FAQs
 
+### What is the proper way to hold a lawn bowl?
 
+There is no "proper" way to hold a bowl. There are 3 common techniques - the claw, cradle and scoop grips - but which one you choose is down to the bowler's personal preference.
 
-## What is the best grip for a lawn bowl?
+### What is the best grip for a lawn bowl?
+
+The Scoop grip is the best way to grip a lawn bowl. The fingers and thumb are placed along the running surface and in the grips on the shoulder of the bowl. This alongside the palm being used to hold the bowl means it offers the best control, whilst also allowing the fingers to have a feel for the release.
