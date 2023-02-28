@@ -27,17 +27,37 @@ The one you choose will depend on many factors (which we will look at later). Fo
 
 -- image --
 
+The claw grip is where you place your fingers across the running surface of the bowl - your index and pinky will often sit along the grips on the shoulder of the bowl - with your thumb on top of the bowl.
+
+Your thumb can sit either along the running surface of the bowl, or along the grip.
+
+The main feature of the Claw grip is that the palm of the hand is off the bowl. There should be a noticable gap between the palm of the hand and the bowl itself.
+
 ## Cradle
 
 -- image --
+
+The Cradle grip is where the bowl is held almost entirely in the palm of the hand. Your fingers and thumb are all along the running surface of the bowl or holding the bowl by the grip on the underside of it.
+
+The Cradle is almost as if you are cupping the bowl.
 
 ## Scoop
 
 -- image --
 
+The Scoop grip is a combination of the cradle and the Claw. The fingers and thumb are placed similarly to the Claw, but the palm is also used to hold the bowl.
+
+You know when you are holding your bowl in the correct Scoop grip when you can see your thumb and index finger in a "C" shape along the grip of the bowl.
+
 ## How to choose which technique to use
 
+Now we know what the 3 main ways to grop a bowl are, and how to do them correctly, its time to look at when to use them.
+
+Its important to understand that you can (and often will) change your grip depending on the circumstances. As you are about to see, your grip can be changed to suit many common bowls issues.
+
 ### Grip strength
+
+
 
 
 ### Weather
