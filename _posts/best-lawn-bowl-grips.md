@@ -35,6 +35,12 @@ The main feature of the Claw grip is that the palm of the hand is off the bowl. 
 
 ### Pros and Cons of the Claw grip
 
+As the bowl is held primarily with the fingers, it means you will have a better feel for the bowl as you release it. The fingers are the last thing to touch the bowl before you release it, so having them the sole touch point on the bowls can often help towards a smooth release.
+
+The main draw back to it is that it can feel rather insecure in your hand. 
+
+The Claw grip is ideal for indoor bowls, or fast outdoor greens as it helps when weight control is more about "touch" and "feel".
+
 ## Cradle
 
 -- image --
@@ -45,6 +51,10 @@ The Cradle is almost as if you are cupping the bowl.
 
 ### Pros and Cons of the Cradle grip
 
+The cradle grip offers the most support for the bowl. Having the whole hand on the bowl makes it ideal for times when gripping the bowl is tricky.
+
+It does however mean that you loose a lot of the "feel" you get when you hold the bowl with the tips of your fingers. Also, having your thumb at the bottom of the bowl can make your backswing rather awkward, as there is nothing stopping the bowl from falling out - unless you bend your wrist to keep your hand underneath the bowl.
+
 ## Scoop
 
 -- image --
@@ -54,6 +64,10 @@ The Scoop grip is a combination of the cradle and the Claw. The fingers and thum
 You know when you are holding your bowl in the correct Scoop grip when you can see your thumb and index finger in a "C" shape along the grip of the bowl.
 
 ### Pros and Cons of the Scoop grip
+
+The Scoop grip is a get all-round grip. It offers alot of the benefits of the claw grip - as the bowl is held by the tips of your fingers, abut is also offers the extra security by having the palm of your hand in contact with the bowl.
+
+As with many "all-round" options, the Scoop grip offers only some of the benefit of the Claw and Cradle grips.
 
 ## How to choose which technique to use
 
