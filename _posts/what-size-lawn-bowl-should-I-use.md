@@ -32,15 +32,15 @@ Lets face it - size _does_ matter. However "bigger" does not always mean "better
 
 1. It can help with weight control on heavy greens, as the extra weight aides the pendulum motion of the delivery
 2. A heavy lawn bowl can be better for weighted shots. A heavier bowl will reach the head with more force, making it easier to remove smaller bowls
-3. A heavy bowl will require more force to move out of the head. This forces your opponent to apply more weight to their shot than they might be comfrtable with
+3. A heavy bowl will require more force to move out of the head. This forces your opponent to apply more weight to their shot than they might be comfortable with
 
 Whilst these are all valid reasons to use a heavier bowl, they are not reason enough to use a bowl too big for you to hold.
 
 Using a bowl that is too big can cause several issues with your delivery, including:
 
 1. Slipping out of the hand. A bowl slipping out of the hand can cause your bowls to "dump" into the ground (where the bowl is release too early and it bounces straight into the ground)
-2. Uncomfotable delivery technique. Many bowlers who use bowls that are too big have to compenstate for the lack of grip by adjusting their action - including shortening their delivery and removing their backswing
-3. Poor grip on the bowl. A poor grip is at best umcomfortable (leading you to not be fully focused on the game) and at worst can cause issues such as wobbling of the bowls, or possibly a strain injury to your fingers
+2. Uncomfortable delivery technique. Many bowlers who use bowls that are too big have to compensate for the lack of grip by adjusting their action - including shortening their delivery and removing their backswing
+3. Poor grip on the bowl. A poor grip is at best uncomfortable (leading you to not be fully focused on the game) and at worst can cause issues such as wobbling of the bowls, or possibly a strain injury to your fingers
 
 So now we know why you should get the right size, lets look at ways to find the right one for you.
 
