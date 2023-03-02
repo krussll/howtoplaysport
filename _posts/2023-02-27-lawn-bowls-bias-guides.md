@@ -2,7 +2,7 @@
 layout: post
 title:  "Lawn Bowls Bias And Trajectory Guide"
 author: reece
-categories: [ guide ]
+categories: [ lawn-bowls ]
 image: assets/images/bowls-bias-charts.jpg
 description: "Our guide to the bias charts for all major lawn bowl brands."
 ---
