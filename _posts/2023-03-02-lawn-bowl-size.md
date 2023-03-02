@@ -54,19 +54,46 @@ If it is comfortable then the size is a good fit for you! If you wish you can tr
 
 ### Hold bowl upside down
 
+How to do the test:
+
+1. Pick the bowl up and grip it as if you were about to bowl
+2. Turn your hand so that you are holding the bowl upside down with your palm facing down
+3. Hold for 10-15 seconds
+
+If you are able to comfortably hold the bowl for the full time then the bowl is a good size for you.
+
+If the bowl slipped out, or if you were straining your fingers to hold it then the bowl is too big.
+
 ### Wrap hands around the bowl
 
+How to do the test:
+
+1. Wrap both hands around the running surface of the bowl
+2. Try to get your thumbs and fingers to touch
+
+If you are able to wrap your hands around the bowl so that your fingers and thumbs touch then the bowl is a good size for you.
+
+If your fingers and thumbs don't touch, then this bowl is too big for you.
+
 ### Play
+
+How to do the test:
+
+1. Play a game of bowls!
+
+The simpliest way to check the size of a bowl is to actually play a game (or at least have a roll up).
+
+All of the tests above are just guides. No one can say that the size of bowl you are using is "wrong", so long as the bowl is comfortable to play with and you are happy.
 
 ## When to check your size
 
 You should always be checking the size of bowl to use. This isn't just a process you need to do when you first start.
 
-Things change, and you may find that a size you used for a few years may actually become uncomfortable or tricky to use.
+Things change, and you may find that a size you used for a few years may actually become uncomfortable or tricky to use over time.
 
 Don't wait for an issue to arise - be proactive with your testing. Here are some great opportunities to check the size of your lawn bowls:
 
-* When you first start play
+* When you first start playing the sport
 * When you are looking to buy a new set of bowls
 * At the start of each outdoor and indoor season
 * When ever you feel your grip isn't as secure as you'd like
