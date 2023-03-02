@@ -2,8 +2,8 @@
 layout: post
 title:  "How To Choose The Right Size Of Bowl"
 author: reece
-categories: [ help ]
-image: assets/images/what-size-lawn-bowl-should-I-use.jpg
+categories: [ lawn-bowls ]
+image: assets/images/lawn-bowl-size.jpg
 featured: true
 description: "Using the right sized lawn bowl is vital. In this guide I'll show you which size you need to use."
 first_paragraph: "We all know how important it is to use the right size of lawn bowl. However working out what size lawn bowl to use can be tricky, even for experienced players."
