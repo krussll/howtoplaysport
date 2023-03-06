@@ -12,7 +12,22 @@ first_paragraph: ""
 
 ## At a glace
 
-## How to choose a mid-biased bowl
+Here are the best mid-biased bowls available today:
+
+* Taylor Ace
+* Drakes Pride Pro-50
+* Henselite Tiger Pro
+* Taylor Vector VS
+
+## What is a "mid-Biased" bowl?
+
+## Taylor Ace
+
+## Drakes Pride Pro-50
+
+## Henselite Tiger Pro
+
+## Taylor Vector VS
 
 ## Why choose a mid-biased bowl
 
