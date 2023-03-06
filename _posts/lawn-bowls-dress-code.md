@@ -3,65 +3,93 @@ layout: post
 title:  "Lawn bowls dress code"
 categories: [ help ]
 author: reece
-image: assets/images/lawn-bowls-dress-code.jpg
+image: assets/images/bowls-dress-code.jpg
 description: ""
+first_paragraph: "Bowls is a game of tradition, and much like other traditional sports there is a dress code and an expectation of what you need to wear. However, the days of 'below the knee' skirts and blazer and ties in heatwaves are over. Lets take a look at what the modern dress code is for bowls."
 ---
 
-Each club will have their own guidelines depending on the type of game is being played, however there are usually some common rules that you will find in most clubs and leagues.
+Over the past decade or so the rules around dress code has changed dramatically. This change goes hand-in-hand with some of the other changes in the soport to make it more accessible.
 
-Just like any other sport, bowlers are proud to wear their team's shirt and expect to represent their club by wearing the correct attire. Follow these simple rules and you will fit in in no time!
+Bowls has pushed hard to appeal to a younger audience, this can be seeing the move to colourful bowls, and a relaxation of dress code.
 
-## The basics
+I see this change week-in, week-out when I play club bowls, and it is especially noticeable when I see bowlers out practicing..
 
-At its basic level you should be wearing trousers or shorts, your club shirt (or a plain white t-shirt will do if you don't have one) and a pair of flat soled shoes.
+So what is the latest guidelines for lawn bowls apparel? Lets take a look.
 
-We will go through so more specific rules associated with each of these, as well as the reasoning behind them.
+## At a glance
+
+Modern law bowls dress code is very simple:
+
+* Trousers, shorts and skirts of any length are allowed
+* Depending on the competition you are playing they should either be grey or white
+* You should wear either a club top, or a white t-shirt or polo shirt
+* Jumpers, jackets and hoodies are all allowed, so long as they are white
+* Hats and caps of any style are allowed
+* The only strict rule: shoes must have flat soles
+
 
 ## What should you wear to play bowls
 
-There are some specific rules for each element of clothing. These aren't hard rules, nor are they particularly complex, but they should be followed as closely as you can.
+When choosing what to wear to play bowls comfort and ease of movement should be your top priorities.
 
-### Requirements for tops
+So long as your choices meet the general guideance above you can't go too far wrong. 
 
-When playing a game of bowls you should be wearing the shirt or top that was provided to you by your club. 
+Of course, if you are ever in doubt don't hesitate to ask your club captain or coach and they will be glad to help.
 
-This is just the same as playing any other team sport, where all players wear the same top so should who they are representing.
+In this section I'll run through your options when it's time to play.
 
-If you don't have one then a plain white t-shirt or polo shirt will be fine.
+### Tops
 
-### Requirements for trousers
+When you are playing for your club - either in a local club game, or in a national competition - you should wear your "club top".
 
-You can wear trousers of any fabric, as long as they aren't jeans. 
+When you join a local club they should provide you with a club top. This is usually a white polo top with the club's colours and emblem on.
 
-The trousers should be grey for competitive games, and white for friendlies - this is a general guide, and your club may be different, so always check with your club captain.
+If you haven't been given one yet, or if your club doesn't have a specific club top, then a white s-shirt or polo top will be fine.
 
-You can buy official trousers from any major bowls manufacturer, however if you are just starting out you can just wear a pair you have around.
+Baselayers can be worn underneath your top, which is a great option if you are playing on a particularly chilly evening!
 
-When I started I used a pair of work trousers, and an old pair of cricket whites! 
+### Trousers, shorts and skirts
 
-If you are interested in taking bowls up then see below for our selections of bowls trousers you should consider.
+Gone are the days when women had their skirts measured to make sure they are long enough, and men having to wear formal trousers in heatwaves.
 
-### Requirements for shorts
+There are a few choices out there nowadays, and you can choose to wear what you like depending on personal preference and the weather.
 
-Shorts follow the same rules as trousers. We would suggest you shouldn't wear gym shorts, but stick to smart cotton shorts.
+As a general rule, the only thing you shouldn't wear are jeans. Other than that you can wear either a skirt, shorts, or trousers.
 
-As with everything else, you can buy shorts made to the correct specifications online. See below for our best picks
+Some competitons require you to wear either grey or white, so it's worth checking ahead of time. In my local area its grey for comptitions and whites for friendlies - but this may be different in your region.
 
-### Requirements for shoes
+### Shoes
 
-Unfortunately you can't wear any old trainers when playing bowls. Your shoes MUST have flat soles.
+The only strict rules left in bowls is to do with footwear - but this is with good reason.
 
-This is required to keep the greens in the best possible condition by preventing the grass being churned up by the grip on players shoes.
+When playing bowls you MUST wear a pair of shoes with flat soles. This is to protect the surface of the rink. Shoes with grip on them can damage the grass, especially when its soft or wet.
 
-Whilst investing in a pair of shoes designed for bowls is the long term solution, it is possible to find flat soled shoes in most high street stores. 
+The shoes can be any style you like, and any colour you want. Most of the major manufacturers offer bowls shoes with colour options for those who like a splash of colour, and there are still plenty of options for those traditionalists who like the white formal shoe.
 
-If you are looking to buy a pair of bowls shoes, checkout out best bowls shoes guide for more information.
+### Accessories
 
-### Requirements for accessories
+Hats, jumpers and jackets are all fine on the bowls green. So long as they are white when possible, you will be fine.
 
-You are allowed to wear a variety of bowls ther accessories when playing. 
+I often wear a jumper, especially in the early and late parts of the season, as here in the UK the evenings get chilly. And I know many bowlers couldn't get by without their white rain coats when the worst of the British summer hits. 
 
-Items such as hats and waterproofs are essential, especially when playing in the UK where weather can change quickly!
+## What to wear when practicing
 
-The general rule with accessories is to ensure they are white. Apart from that you are free to choose whatever style you like!
+When practicing you can dress as you like, so long as you have the correct footwear you will be fine.
 
+I would still advise you don't wear jeans, not least because they can be restrictive and can be hard to bowl in.
+
+## Conclusion
+
+The dress code for lawn bowls has changed dramatically over the last 10-15 years. The old ways have moved on, and bowls clubs are a far more welcoming and accessible place to be.
+
+## FAQ
+
+Here are answers to common questions about lawn bowls dress codes.
+
+### Do you have to wear white for bowls?
+
+**Whilst there is a dress code for club games, you no longer have to wear all white when playing bowls recreationally.** If you are playing a game amoungst friends you can wear whatever feels comfortable. 
+
+### What shoes to wear when playing bowls?
+
+Any shoe can be worn, so long as it has a flat sole. Flat soled shoes protect the surface of the rink, as they don't dig into the surface like a pair of gripped shoes will.
