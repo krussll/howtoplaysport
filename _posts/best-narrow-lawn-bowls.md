@@ -36,11 +36,11 @@ Here are the best narrow baised bowls available today:
 
 ### Pros
 
-- Great for those who want to play lead more
-- Still very much cost effective
-- Nice draw arch to the jack
+
 
 ### Cons
+
+
 
 ## Drakes Pride D-TEC
 
@@ -56,12 +56,11 @@ Here are the best narrow baised bowls available today:
 
 ### Pros
 
-- Great for those who want to play lead more
-- Still very much cost effective
-- Nice draw arch to the jack
+
 
 ### Cons
-- The narrow bias might make it limiting for those who want to expand their game in the future
+
+
 
 ## Biased Racing Line
 
@@ -77,9 +76,6 @@ Here are the best narrow baised bowls available today:
 
 ### Pros
 
-- Great for those who want to play lead more
-- Still very much cost effective
-- Nice draw arch to the jack
 
 ### Cons
 
@@ -98,9 +94,6 @@ Here are the best narrow baised bowls available today:
 
 ### Pros
 
-- Great for those who want to play lead more
-- Still very much cost effective
-- Nice draw arch to the jack
 
 ### Cons
 
