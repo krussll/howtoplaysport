@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Mid-Biased Bowls"
+title:  "Best Mid-Biased Bowls"
 author: reece
 categories: [ lawn-bowls ]
 image: assets/images/best-mid-biased-lawn-bowls.jpg
