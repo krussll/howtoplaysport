@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lawn bowls dress code"
-categories: [ help ]
+title:  "Lawn Bowls Dress Code - What To Wear Playing Bowls"
+categories: [ lawn-bowls ]
 author: reece
 image: assets/images/bowls-dress-code.jpg
-description: ""
+description: "A guide on what to wear when playing bowls. What to wear in lawn bowl competitions, and what to where when practising lawn bowls."
 first_paragraph: "Bowls is a game of tradition, and much like other traditional sports there is a dress code and an expectation of what you need to wear. However, the days of 'below the knee' skirts and blazer and ties in heatwaves are over. Lets take a look at what the modern dress code is for bowls."
 ---
 
