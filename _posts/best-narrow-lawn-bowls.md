@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Narrow Biased Lawn Bowls"
+title:  "Best Narrow Biased Lawn Bowls"
 author: reece
 categories: [ lawn-bowls ]
 image: assets/images/best-narrow-biased-lawn-bowls.jpg
