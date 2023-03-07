@@ -17,9 +17,9 @@ Here are the best mid-biased bowls available today:
 * Taylor Ace
 * Drakes Pride Pro-50
 * Henselite Tiger Pro
-* Taylor Vector VS
+* Taylor Blaze
 
-## What is a "mid-Biased" bowl?
+## What is a "mid-biased" bowl?
 
 ## Taylor Ace
 
@@ -73,27 +73,23 @@ Here are the best mid-biased bowls available today:
 ### Cons
 
 
-## Taylor Vector VS
+## Taylor Blaze
 
-<img src="/assets/images/taylor-vector-vs-bowls.jpg" />
+<img src="/assets/images/taylor-blaze.jpg" />
 
 
 
 ### Key features:
 
 - **Price**: £70-£150
-- **Best for**: Lead bowlers/indoor bowlers
-- **Type**: Narrow/mid-biased
+- **Best for**: Lead bowlers/All-rounder
+- **Type**: Mid-biased
 
 ### Pros
 
-- Great for those who want to play lead more
-- Still very much cost effective
-- Nice draw arch to the jack
 
 ### Cons
 
-- The narrow bias might make it limiting for those who want to expand their game in the future
 
 
 ## Why choose a mid-biased bowl
