@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Best Narrow Lawn Bowls"
+title:  "The Best Narrow Biased Lawn Bowls"
 author: reece
 categories: [ lawn-bowls ]
-image: assets/images/best-straight-lawn-bowls.jpeg
+image: assets/images/best-narrow-biased-lawn-bowls.jpg
 featured: false
-description: ""
+description: "A guide to the best narrow biased lawn bowls. The best straight lawn bowls."
 first_paragraph: "Narrow biased bowls (unkindly referred to as 'straight' bowls) are very popular with many a club bowler. Their narrow bias helps with many of the core techniques required to be a good lawn bowler. In this guide I'll run through the best narrow biased bowls available today."
 ---
 
