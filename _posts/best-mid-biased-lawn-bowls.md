@@ -99,3 +99,9 @@ Here are the best mid-biased bowls available today:
 ## Conclusion
 
 ## FAQ
+
+### What is a mid bias bowl?
+
+### What are the most accurate lawn bowls?
+
+### What is the most popular lawn bowl in the UK?
