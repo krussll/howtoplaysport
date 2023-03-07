@@ -2,7 +2,7 @@
 layout: post
 title:  "The Best Mid-Biased Bowls"
 author: reece
-categories: [ review ]
+categories: [ lawn-bowls ]
 image: assets/images/best-mid-biased-lawn-bowls.jpg
 featured: false
 description: "Complete guide to the best mid-biased lawn bowls."
