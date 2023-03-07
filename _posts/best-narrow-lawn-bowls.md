@@ -15,6 +15,9 @@ first_paragraph: "Narrow biased bowls (unkindly referred to as 'straight' bowls)
 Here are the best narrow baised bowls available today:
 
 * Taylor Vector VS
+* Drakes Pride D-TEC
+* Biased Racing Line
+* Henselite Tiger II
 
 ## What is a "narrow-biased" bowl?
 
@@ -39,13 +42,78 @@ Here are the best narrow baised bowls available today:
 
 ### Cons
 
+## Drakes Pride D-TEC
+
+<img src="/assets/images/drakes-pride-d-tec.jpg" />
+
+
+
+### Key features:
+
+- **Price**: £70-£150
+- **Best for**: Lead bowlers/indoor bowlers
+- **Type**: Narrow/mid-biased
+
+### Pros
+
+- Great for those who want to play lead more
+- Still very much cost effective
+- Nice draw arch to the jack
+
+### Cons
 - The narrow bias might make it limiting for those who want to expand their game in the future
 
+## Biased Racing Line
 
-## Why choose a mid-biased bowl
+<img src="/assets/images/biased-bowls-racing-line.jpg" />
+
+
+
+### Key features:
+
+- **Price**: £70-£150
+- **Best for**: Lead bowlers/indoor bowlers
+- **Type**: Narrow/mid-biased
+
+### Pros
+
+- Great for those who want to play lead more
+- Still very much cost effective
+- Nice draw arch to the jack
+
+### Cons
+
+
+## Henselite Tiger II
+
+<img src="/assets/images/henselite-tiger-ii.jpg" />
+
+
+
+### Key features:
+
+- **Price**: £70-£150
+- **Best for**: Lead bowlers/indoor bowlers
+- **Type**: Narrow/mid-biased
+
+### Pros
+
+- Great for those who want to play lead more
+- Still very much cost effective
+- Nice draw arch to the jack
+
+### Cons
+
+
+## Why choose a narrow-biased bowl
 
 ## Other options
 
 ## Conclusion
 
 ## FAQ
+
+### Which lawn bowl has narrowest bias?
+
+### Do all lawn bowls have the same bias?
+
