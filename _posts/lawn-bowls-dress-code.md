@@ -8,11 +8,11 @@ description: ""
 first_paragraph: "Bowls is a game of tradition, and much like other traditional sports there is a dress code and an expectation of what you need to wear. However, the days of 'below the knee' skirts and blazer and ties in heatwaves are over. Lets take a look at what the modern dress code is for bowls."
 ---
 
-Over the past decade or so the rules around dress code has changed dramatically. This change goes hand-in-hand with some of the other changes in the soport to make it more accessible.
+Over the past decade or so the rules around dress code has changed dramatically. This change goes hand-in-hand with some of the other changes in the sport to make it more accessible.
 
 Bowls has pushed hard to appeal to a younger audience, this can be seeing the move to colourful bowls, and a relaxation of dress code.
 
-I see this change week-in, week-out when I play club bowls, and it is especially noticeable when I see bowlers out practicing..
+I see this change week-in, week-out when I play club bowls, and it is especially noticeable when I see bowlers out practising.
 
 So what is the latest guidelines for lawn bowls apparel? Lets take a look.
 
@@ -32,7 +32,7 @@ Modern law bowls dress code is very simple:
 
 When choosing what to wear to play bowls comfort and ease of movement should be your top priorities.
 
-So long as your choices meet the general guideance above you can't go too far wrong. 
+So long as your choices meet the general guidance above you can't go too far wrong. 
 
 Of course, if you are ever in doubt don't hesitate to ask your club captain or coach and they will be glad to help.
 
@@ -56,7 +56,7 @@ There are a few choices out there nowadays, and you can choose to wear what you 
 
 As a general rule, the only thing you shouldn't wear are jeans. Other than that you can wear either a skirt, shorts, or trousers.
 
-Some competitons require you to wear either grey or white, so it's worth checking ahead of time. In my local area its grey for comptitions and whites for friendlies - but this may be different in your region.
+Some competitions require you to wear either grey or white, so it's worth checking ahead of time. In my local area its grey for competitions and whites for friendlies - but this may be different in your region.
 
 ### Shoes
 
@@ -72,9 +72,9 @@ Hats, jumpers and jackets are all fine on the bowls green. So long as they are w
 
 I often wear a jumper, especially in the early and late parts of the season, as here in the UK the evenings get chilly. And I know many bowlers couldn't get by without their white rain coats when the worst of the British summer hits. 
 
-## What to wear when practicing
+## What to wear when practising
 
-When practicing you can dress as you like, so long as you have the correct footwear you will be fine.
+When practising you can dress as you like, so long as you have the correct footwear you will be fine.
 
 I would still advise you don't wear jeans, not least because they can be restrictive and can be hard to bowl in.
 
@@ -88,7 +88,7 @@ Here are answers to common questions about lawn bowls dress codes.
 
 ### Do you have to wear white for bowls?
 
-**Whilst there is a dress code for club games, you no longer have to wear all white when playing bowls recreationally.** If you are playing a game amoungst friends you can wear whatever feels comfortable. 
+**Whilst there is a dress code for club games, you no longer have to wear all white when playing bowls recreationally.** If you are playing a game amongst friends you can wear whatever feels comfortable. 
 
 ### What shoes to wear when playing bowls?
 
