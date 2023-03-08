@@ -9,7 +9,11 @@ description: "An overview of all of my lawn bowl product recommendations."
 first_paragraph: "There are so many different models of bowls, each aimed at a certain pain point. In this guide I will take you through what I believe are the best lawn bowls for you, whatever your needs are."
 ---
 
+I often get asked what brand or model I recommend - and of course, my answer is always "it depends".
 
+There are so many different types of bowl, all with different purposes. And for every different bowl the is a different bowler it its aimed at.
+
+So in this guide I will go through all of my recommendations for all of the most common requirements.
 
 ## At a glance
 
@@ -65,7 +69,9 @@ Its steady draw arch means it is much easier to control compared to something wi
 The Professional model can also be picked up pretty cheaply on second hand marketplaces - The Drakes Pride Professional is actually one of the cheapest bowls you can buy, which is great for newcomers to the game.
 
 
-## Best bowls for leads - Taylor Blaze
+## Best bowls for leads 
+
+It is hard to find a better lead bowl than the **Taylor Blaze**. As a lead you want a narrow biased bowl
 
 <img src="/assets/images/taylor-blaze.jpg" />
 
