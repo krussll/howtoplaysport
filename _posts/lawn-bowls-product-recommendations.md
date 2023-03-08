@@ -11,27 +11,27 @@ first_paragraph: ""
 
 ## At a glance
 
-- **Best bowls for indoors** 
-- **Best bowls for outdoors**
-- **Best bowls for short mat**
-- **Best bowls for beginners**
-- **Best bowls for leads**
-- **Best bowls for small hands**
+- Best bowls for indoors: **Henselite Tiger II** 
+- Best bowls for outdoors: **Drakes Pride Pro-50**
+- Best bowls for short mat: **Taylor Lignoid**
+- Best bowls for beginners: **Drakes Pride Professional**
+- Best bowls for leads: **Taylor Blaze**
+- Best bowls for small hands: **Henselite Tiger Pro**
 
-## Best bowls for indoors
-
-
-
-## Best bowls outdoors
+## Best bowls for indoors - Henselite Tiger II
 
 
-## Best bowls for short mat
+
+## Best bowls outdoors - Drakes Pride Pro-50
 
 
-## Best bowls for beginners
+## Best bowls for short mat - Taylor Lignoid
 
 
-## Best bowls for leads
+## Best bowls for beginners - Drakes Pride Professional
 
 
-## Best bowls for small hands
+## Best bowls for leads - Taylor Blaze
+
+
+## Best bowls for small hands - Henselite Tiger Pro
