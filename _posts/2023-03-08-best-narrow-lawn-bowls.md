@@ -166,11 +166,20 @@ This list is by no means complete. There are several other bowls that could have
 
 ## Conclusion
 
+As you can see there are plenty of narrow biased options out there, which is best is up to you.
+
+I don't like to pick "winners" from my lists, as in my opinion they are all great bowls. Which is best will be down to how you play and how you like your bowls to be.
+
 ## FAQ
 
 Here are answers to some commonly asked questions about narrow biased bowls.
 
 ### Which lawn bowl has narrowest bias?
 
+The henselite Tiger TX has one of the narrowest biases available. It is similar to other narrow bowls such as the Taylor Lazer, and the Drakes Pride D-TEC.
+
 ### Do all lawn bowls have the same bias?
 
+No, all models of lawn bowls have their own bias. Models are designed for specific purposes or surfaces in mind, and a bias will be designed for that.
+
+Of course, all lawn bowls in a single set will have the same bias. That way you know the 4th bowl will have the same bias as the first.
