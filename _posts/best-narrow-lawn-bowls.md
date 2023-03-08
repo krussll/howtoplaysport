@@ -19,7 +19,7 @@ In this guide I hope to highlight the best narrow biased bowls around today.
 
 ## At a glace
 
-Here are the best narrow baised bowls available today:
+Here are the best narrow biased bowls available today:
 
 * Taylor Vector VS
 * Drakes Pride D-TEC
@@ -42,7 +42,7 @@ It is much easier to play a draw shot with a narrow biased bowl, and this is why
 
 The **Taylor Vector VS** is one of the most popular models in the Taylor range. Taylor offer it as a duel purpose bowl that performs best indoors and on fast-to-medium speed outdoor greens.
 
-It can also play on slower, heavier greens, and it is in these conditions that it is noticably narrow.
+It can also play on slower, heavier greens, and it is in these conditions that it is noticeably narrow.
 
 The only model in the Taylor range that has a weaker bias than the Vector VS is the Taylor Lazer - however this is a dedicated indoor bowl, and you would likely find that it would hardly bend at all on many outdoor surfaces.
 
@@ -57,7 +57,7 @@ The Vector VS can also be picked up quite easily on second hand marketplaces suc
 ### Pros
 
 - A narrow bowl, but with enough bias to still handle slow greens
-- Good availablity on second hand marketplaces
+- Good availability on second hand marketplaces
 - Comes with Taylor's premium dimple grip - the Progrip - as standard
 
 ### Cons
@@ -94,7 +94,7 @@ The D-TEC offers a smooth hook-free finish which also makes drawing easier. And 
 
 <img src="/assets/images/biased-bowls-racing-line.jpg" />
 
-Next on the list is the **Biasd Racing Line**, which is my curveball option.
+Next on the list is the **Biased Racing Line**, which is my curveball option.
 
 Biased Bowls are a new brand on the scene. For those not in the know, they were founded in 2020 with a focus on bringing quality bowls with unique personalisation options.
 
@@ -117,7 +117,7 @@ It may be slightly wider than some of the other models on this list, however it 
 
 ### Cons
 
-- Might be slightly wider than some of the other bowls mentions. Might be a concern for those only after the narrwest of bowls
+- Might be slightly wider than some of the other bowls mentions. Might be a concern for those only after the narrowest of bowls
 
 ## Henselite Tiger II
 
@@ -129,7 +129,7 @@ You would be hard pushed to find a rink of club players anywhere in the UK where
 
 The Tiger IIs are one of the narrowest models offered by Henselite, with only the Tiger TX model being narrower. I would recommend the Tiger IIs being the narrowest you should go if you still want to play outdoors.
 
-The Henselite Tiger II is one of the few bowls on this list where an embeded grip is offered as standard. The Henselite Mega grip is ideal for those who are looking for a bit of extra control over the bowl.
+The Henselite Tiger II is one of the few bowls on this list where an embedded grip is offered as standard. The Henselite Mega grip is ideal for those who are looking for a bit of extra control over the bowl.
 
 As will all embedded grips, the Mega grip sits in a small channel taken out of the shoulder of the bowl, so you fingers sit slightly within the bowl making it feel smaller in your hand.
 
