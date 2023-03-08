@@ -83,55 +83,92 @@ The D-TEC offers a smooth hook-free finish which also makes drawing easier. And 
 
 ### Pros
 
-
+- A predominantly indoor bowl  that can be played outdoors
+- A steady narrow line to the jack
 
 ### Cons
 
-
+- Very few available on second hand markets
 
 ## Biased Racing Line
 
 <img src="/assets/images/biased-bowls-racing-line.jpg" />
 
+Next on the list is the **Biasd Racing Line**, which is my curveball option.
 
+Biased Bowls are a new brand on the scene. For those not in the know, they were founded in 2020 with a focus on bringing quality bowls with unique personalisation options.
+
+All of their models are inspired by cars and racing - hence the name "Racing Line". For anyone with experience with racing, the racing line is the quickest way to drive around a corner, which should give you a clue as to how this bowl performs.
+
+Biased Bowls currently offer 2 models, the racing Line and the Torque. Both are duel purpose bowls, with the Racing Line being the narrower of the two.
+
+It may be slightly wider than some of the other models on this list, however it is a great option for those looking for something a bit different.
 
 ### Key features:
 
-- **Price**: £70-£150
+- **Price**: £385
 - **Best for**: Lead bowlers/indoor bowlers
 - **Type**: Narrow/mid-biased
 
 ### Pros
 
+- Unique personalisation options
+- Manufactured by Taylor bowls, so you know they are built well
 
 ### Cons
 
+- Might be slightly wider than some of the other bowls mentions. Might be a concern for those only after the narrwest of bowls
 
 ## Henselite Tiger II
 
 <img src="/assets/images/henselite-tiger-ii.jpg" />
 
+The **Henselite Tiger II** is a classic choice.
 
+You would be hard pushed to find a rink of club players anywhere in the UK where there isn't someone using a set of these.
+
+The Tiger IIs are one of the narrowest models offered by Henselite, with only the Tiger TX model being narrower. I would recommend the Tiger IIs being the narrowest you should go if you still want to play outdoors.
+
+The Henselite Tiger II is one of the few bowls on this list where an embeded grip is offered as standard. The Henselite Mega grip is ideal for those who are looking for a bit of extra control over the bowl.
+
+As will all embedded grips, the Mega grip sits in a small channel taken out of the shoulder of the bowl, so you fingers sit slightly within the bowl making it feel smaller in your hand.
 
 ### Key features:
 
-- **Price**: £70-£150
-- **Best for**: Lead bowlers/indoor bowlers
+- **Price**: £100-180 (second hand)/£390-£400 (new)
+- **Best for**: Lead bowlers
 - **Type**: Narrow/mid-biased
 
 ### Pros
 
+- The Henselite Tiger II is a proven model used by 1000s of bowlers
+- Good second hand market options for those looking to spend a bit less
+- When bought new they come with Henselite's embedded Mega grip as standard
 
 ### Cons
 
+- When bought new, the Henselite Tiger II are one of the most expensive models on this list
 
 ## Why choose a narrow-biased bowl
 
+Narrow biased bowls are great for lead bowlers. The narrow bias means the bowl doesn't bend as much as it travels down the green, making it easier to judge your line.
+
+Wider biased bowls can be harder to control, and have less margin for error, as it will swing away quite dramatically if you get your line wrong.
+
+However, it is important to note that narrow biased bowls will have trouble getting around any bowl that is short of the jack, which is why many bowlers only recommend bowling with them if you are a lead.
+
 ## Other options
+
+This list is by no means complete. There are several other bowls that could have been included:
+
+- **Aero Quantum**
+- **Henselite Tiger Pro**
 
 ## Conclusion
 
 ## FAQ
+
+Here are answers to some commonly asked questions about narrow biased bowls.
 
 ### Which lawn bowl has narrowest bias?
 
