@@ -3,11 +3,13 @@ layout: post
 title:  "Lawn Bowls Product Recommendations"
 author: reece
 categories: [ lawn-bowls ]
-image: assets/images/lawn-bowls-product-recommendations.jpg
+image: assets/images/bowls-recommendations.jpg
 featured: false
-description: ""
-first_paragraph: ""
+description: "An overview of all of my lawn bowl product recommendations."
+first_paragraph: "There are so many different models of bowls, each aimed at a certain pain point. In this guide I will take you through what I believe are the best lawn bowls for you, whatever your needs are."
 ---
+
+
 
 ## At a glance
 
