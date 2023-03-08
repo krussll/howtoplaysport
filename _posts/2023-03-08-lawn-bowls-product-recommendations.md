@@ -71,11 +71,25 @@ The Professional model can also be picked up pretty cheaply on second hand marke
 
 ## Best bowls for leads 
 
-It is hard to find a better lead bowl than the **Taylor Blaze**. As a lead you want a narrow biased bowl
+It is hard to find a better lead bowl than the **Taylor Blaze**. As a lead you want a slightly narrow biased bowl, and ideally one that can be used on multiple surfaces and situations. This is exactly what you get with the Taylor Blaze.
 
 <img src="/assets/images/taylor-blaze.jpg" />
 
+The Blaze is the narrower version of the extremely popular Ace model, and is designed as a duel purpose bowl.
 
-## Best bowls for small hands - Henselite Tiger Pro
+If you are looking for something a touch narrower then you might want to look at the Vector VS, but for flexibility I would recommend the Taylor Blaze.
+
+
+## Best bowls for small hands 
+
+The best bowl for bowlers with small hands is **Henselite Tiger Pro**. The Tiger Pro has several features which helps with the grip issues caused by having smaller hands - including the Ergofit shaping and the embedded Mega grip. 
 
 <img src="/assets/images/henselite-tiger-pro.jpg" />
+
+Firstly, the Ergofit shaping. The Henselite Tiger Pro is a slimer bowl, similar to the Almark Slimline. This means it sits nicely in the hand, and is easier to get your hands around.
+
+It also comes with the Mega grip as standard. If you have seen my other guides, then you will know I am a huge fan of the modern embedded grips, and the Mega grip is Henesilite's version of this.
+
+Whilst the Mega grip isn't as deep as the Taylor Xtreme, it is more inline with the Aero Z-Scoop. In my opinion, I feel like this is a more comfortable grip pattern anyway, as the Taylor Xtreme can be slightly uncomfortable if you don't run your fingers directly inline with the shoulder of the bowl.
+
+On top of all of this, the Tiger Pro is my favourite Henselite mid-biased models. It is great on all surfaces, and can be used as a duel purpose bowl indoors and outdoors.
