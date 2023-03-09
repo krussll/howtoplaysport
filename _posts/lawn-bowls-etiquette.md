@@ -13,7 +13,7 @@ Lawn bowls is a sport that values respect, sportsmanship, and fair play. While t
 
 ## At a glace
 
-Here are the basics of ettiqute in lawn bowls:
+Here are the basics of etiquette in lawn bowls:
 
 - **Be punctual**: Arrive at the green in good time before the game, ready to play.- 
 - **Respect the game**: Bowls is a game of etiquette and sportsmanship, so respect your opponent and play the game fairly.- 
