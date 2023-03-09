@@ -4,7 +4,7 @@ title:  "Lawn Bowls Etiquette"
 author: reece
 categories: [ "lawn-bowls" ]
 image: assets/images/lawn-bowls-etiquette.jpg
-featured: true
+featured: false
 description: "A Guide on Lawn bowls rules and etiquette."
 first_paragraph: "Lawn bowls is a sport that has been enjoyed by people around the world for centuries. It is a game that values sportsmanship, respect, and fair play. Etiquette plays an essential role in ensuring that these values are upheld, and that the game is played in a respectful and inclusive environment. In this article, we will explore the various rules of etiquette that should be observed when playing lawn bowls, and why they are so important for maintaining the integrity of the game."
 ---
