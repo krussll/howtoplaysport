@@ -35,7 +35,13 @@ In conclusion, being punctual is an important part of lawn bowls etiquette, and 
 
 ## Respect the game
 
-Bowls is a game of etiquette and sportsmanship, so respect your opponent and play the game fairly.
+Respecting the game is an essential part of lawn bowls etiquette, and it encompasses several aspects of behavior and attitude. Firstly, respecting the game means playing by the rules and abiding by the spirit of the game. This includes showing honesty and fairness, treating opponents with respect, and avoiding any behavior that could be considered unsportsmanlike or unethical. It also means accepting the decisions of the officials and playing the game with integrity.
+
+Secondly, respecting the game involves maintaining the playing surfaces and equipment in good condition. This includes taking care of the greens, avoiding unnecessary damage or wear and tear, and ensuring that the equipment is clean and properly maintained. This shows a commitment to the game and a willingness to preserve its traditions and standards for future generations.
+
+Finally, respecting the game means showing appreciation for its history, culture, and significance. This includes understanding the origins of the game, its evolution over time, and its importance in the community. It also means acknowledging the achievements of past players and recognizing the role that the game plays in promoting social interaction, physical activity, and mental wellbeing.
+
+In conclusion, respecting the game is a vital part of lawn bowls etiquette, and it encompasses a range of attitudes and behaviors that contribute to a positive and enjoyable game for everyone involved. By playing by the rules, taking care of the playing surfaces and equipment, and showing appreciation for the game's history and culture, players demonstrate their commitment to the sport and their respect for its traditions and values.
 
 ## Wear appropriate clothing
 
