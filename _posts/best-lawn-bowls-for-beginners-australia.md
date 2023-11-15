@@ -77,7 +77,7 @@ Great, now we have got that out the way, lets take a look at the best lawn bowls
 ### Cons
 
 
-## Drakes Pride Adrenaline
+## Drakes Pride Conquest
 
 <img src="/assets/images/henselite-tiger-ii-bowls.jpg" />
 
