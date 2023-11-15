@@ -3,7 +3,7 @@ layout: post
 title:  "Best Lawn Bowls For Beginners In Australia "
 categories: [ guide ]
 author: reece
-image: assets/images/second-hand-bowls-buyers-guide.jpg
+image: assets/images/best-lawn-bowls-for-beginners-in-australia.jpg
 featured: true
 description: ""
 ---
