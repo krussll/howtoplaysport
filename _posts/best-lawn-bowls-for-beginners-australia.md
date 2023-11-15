@@ -48,7 +48,7 @@ Great, now we have got that out the way, lets take a look at the best lawn bowls
 
 ## Henselite Dreamline XG
 
-<img src="/assets/images/henselite-tiger-ii-bowls.jpg" />
+<img src="/assets/images/henselite-dreamline-xg-bowlsjpg" />
 
 ### Key features:
 
@@ -63,7 +63,7 @@ Great, now we have got that out the way, lets take a look at the best lawn bowls
 
 ## Taylor GTR
 
-<img src="/assets/images/henselite-tiger-ii-bowls.jpg" />
+<img src="/assets/images/taylor-gtr-bowls.jpg" />
 
 ### Key features:
 
@@ -79,7 +79,7 @@ Great, now we have got that out the way, lets take a look at the best lawn bowls
 
 ## Drakes Pride Conquest
 
-<img src="/assets/images/henselite-tiger-ii-bowls.jpg" />
+<img src="/assets/images/drakes-pride-conquest-bowls.jpg" />
 
 ### Key features:
 
