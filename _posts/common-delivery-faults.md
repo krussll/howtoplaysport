@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Common Lawn Bowls Delivery Faults | A Complete Guide"
+title:  "Common Delivery Faults And How To Fix Them"
 categories: [ lawn-bowls ]
 author: reece
 image: assets/images/second-hand-bowls-buyers-guide.jpg
