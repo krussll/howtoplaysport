@@ -33,7 +33,7 @@ description: ""
 
 ## Henselite Dreamline XG
 
-<img src="/assets/images/henselite-dreamline-xg-bowlsjpg" />
+<img src="/assets/images/henselite-dreamline-xg-bowls.jpg" />
 
 ### Key features:
 
