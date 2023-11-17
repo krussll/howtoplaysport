@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn Bowl Grip Techniques"
+title:  "How To Grip A Lawn Bowl | A Complete Guide To Lawn Bowl Grip Techniques"
 categories: [ lawn-bowls ]
 author: reece
 image: assets/images/how-to-grip-a-lawn-bowl.jpg
