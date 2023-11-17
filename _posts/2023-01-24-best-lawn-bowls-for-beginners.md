@@ -11,7 +11,7 @@ first_paragraph: "Finding that first set of bowls can be tricky. But knowing wha
 
 Borrowing sets of bowls from your club is a great way to get a taste of lawn bowls, but when you want to commit to playing regularly (and why wouldn't you?!), getting your own set of lawn bowls is crucial.
 
-A good set of lawn bowls for a beginner should be affordable, comfortbale to use, and suit the style of game you will be playing. But it can be tricky to work out which brand and model you should be considering when there are so many on offer.
+A good set of lawn bowls for a beginner should be affordable, comfortable to use, and suit the style of game you will be playing. But it can be tricky to work out which brand and model you should be considering when there are so many on offer.
 
 Fear not, as in this guide I will walk you through what I believe are the best lawn bowls for beginners.
 
