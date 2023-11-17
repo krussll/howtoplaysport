@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Best Lawn Bowls For Beginners In Australia "
-categories: [ guide ]
+categories: [ lawn-bowls ]
 author: reece
 image: assets/images/best-lawn-bowls-for-beginners-in-australia.jpg
 featured: true
-description: ""
+description: "A complete guide to finding the best lawn bowls for beginners in Australia."
+first_paragraph: "Finding your first set of bowls can be daunting, especially with such a variety of makes and models to choose from. If you're based in Australia, and looking for your first set of bowls then look no further than this guide to the best lawn bowls for beginners in Australia."
 ---
 
 
