@@ -8,7 +8,7 @@ featured: true
 description: ""
 ---
 
-* Stance on mat too straighy
+* Stance on mat too straight
 * Stance too upright and erect
 * Stepping across your body
 * Looking at jack
