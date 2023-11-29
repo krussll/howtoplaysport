@@ -3,8 +3,8 @@ layout: post
 title:  "Common Delivery Faults And How To Fix Them"
 categories: [ lawn-bowls ]
 author: reece
-image: assets/images/second-hand-bowls-buyers-guide.jpg
-featured: true
+image: assets/images/delivery-faults-lawn-bowls.jpg
+featured: false
 description: ""
 ---
 
